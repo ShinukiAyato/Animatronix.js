@@ -1,0 +1,258 @@
+{
+    "Physical Cultivator": {
+        "Mortal Flesh": {
+            "xp": "11000",
+            "item": {
+                "name": "low",
+                "low": 3,
+                "rank": "Mortal Flesh",
+                "nrank": "Soul Forming"
+            }
+        },
+        "Soul Forming": {
+            "xp": "27500",
+            "item": {
+                "name": "low",
+                "low": 6,
+                "rank": "Soul Forming",
+                "nrank": "Mind Scattering"
+            }
+        },
+        "Mind Scattering": {
+            "xp": "55000",
+            "item": {
+                "name": "middle",
+                "middle": 3,
+                "rank": "Mind Scattering",
+                "nrank": "Sarira"
+            }
+        },
+        "Sarira": {
+            "xp": "115000",
+            "item": {
+                "name": "middle",
+                "middle": 6,
+                "rank": "Sarira",
+                "nrank": "Bone Refining"
+            }
+        },
+        "Bone Refining": {
+            "xp": "287500",
+            "item": {
+                "name": "high",
+                "high": 4,
+                "rank": "Bone Refining",
+                "nrank": "Nirvana"
+            }
+        },
+        "Nirvana": {
+            "xp": "718750",
+            "item": {
+                "name": "superior",
+                "superior": 3,
+                "rank": "Nirvana",
+                "nrank": "Golden Body"
+            }
+        },
+        "Golden Body": {
+            "xp": "1796875",
+            "item": {
+                "name": "transcendent",
+                "transcendent": 3,
+                "rank": "Golden Body",
+                "nrank": "Golden Force"
+            }
+        },
+        "Golden Force": {
+            "xp": "4492180",
+            "item": {
+                "name": "violet",
+                "violet": 3,
+                "rank": "Golden Force",
+                "nrank": "Heavenly Being"
+            }
+        },
+        "Heavenly Being": {
+            "xp": "11230470",
+            "item": {
+                "name": "void",
+                "void": 3,
+                "rank": "Heavenly Being",
+                "nrank": "Heavenly God"
+            }
+        },
+        "Heavenly God": {
+            "xp": "28076145",
+            "item": {
+                "name": "vast",
+                "vast": 3,
+                "rank": "Heavenly God",
+                "nrank": "Heavenly Buddha"
+            }
+        },
+        "Heavenly Buddha": {
+            "xp": "98266614",
+            "item": {
+                "name": "rested",
+                "rested": 3,
+                "rank": "Heavenly Buddha",
+                "nrank": "Godly Buddha"
+            }
+        },
+        "Godly Buddha": {
+            "xp": "491333070",
+            "item": {
+                "name": "whole",
+                "whole": 5,
+                "rank": "Godly Buddha",
+                "nrank": "None"
+            }
+        }
+    },
+    "Spiritual Cultivator": {
+        "Qi Gathering": {
+            "xp": "10000",
+            "item": {
+                "name": "low",
+                "low": 3,
+                "rank": "Qi Gathering",
+                "nrank": "Foundation"
+            }
+        },
+        "Foundation": {
+            "xp": "19000",
+            "item": {
+                "name": "middle",
+                "middle": 2,
+                "rank": "Foundation",
+                "nrank": "Gold Core"
+            }
+        },
+        "Gold Core": {
+            "xp": "38000",
+            "item": {
+                "name": "middle",
+                "middle": 4,
+                "rank": "Gold Core",
+                "nrank": "Soul Wanderin"
+            }
+        },
+        "Soul Wanderin": {
+            "xp": "76000",
+            "item": {
+                "name": "high",
+                "high": 2,
+                "rank": "Soul Wanderin",
+                "nrank": "Nascent Soul"
+            }
+        },
+        "Nascent Soul": {
+            "xp": "152000",
+            "item": {
+                "name": "high",
+                "high": 4,
+                "rank": "Nascent Soul",
+                "nrank": "Ensoulment"
+            }
+        },
+        "Ensoulment": {
+            "xp": "380000",
+            "item": {
+                "name": "high",
+                "high": 6,
+                "rank": "Ensoulment",
+                "nrank": "Nihility"
+            }
+        },
+        "Nihility": {
+            "xp": "760000",
+            "item": {
+                "name": "superior",
+                "superior": 3,
+                "rank": "Nihility",
+                "nrank": "Ascension"
+            }
+        },
+        "Ascension": {
+            "xp": "1520000",
+            "item": {
+                "name": "superior",
+                "superior": 6,
+                "rank": "Ascension",
+                "nrank": "Half Immortal"
+            }
+        },
+        "Half Immortal": {
+            "xp": "3040000",
+            "item": {
+                "name": "transcendent",
+                "transcendent": 2,
+                "rank": "Half Immortal",
+                "nrank": "Profound Immortal"
+            }
+        },
+        "Profound Immortal": {
+            "xp": "6080000",
+            "item": {
+                "name": "transcendent",
+                "transcendent": 4,
+                "rank": "Profound Immortal",
+                "nrank": "Golden Immortal"
+            }
+        },
+        "Golden Immortal": {
+            "xp": "12160000",
+            "item": {
+                "name": "violet",
+                "violet": 3,
+                "rank": "Golden Immortal",
+                "nrank": "Immortal Venerable"
+            }
+        },
+        "Immortal Venerable": {
+            "xp": "30400000",
+            "item": {
+                "name": "void",
+                "void": 3,
+                "rank": "Immortal Venerable",
+                "nrank": "Immortal King"
+            }
+        },
+        "Immortal King": {
+            "xp": "76000000",
+            "item": {
+                "name": "vast",
+                "vast": 3,
+                "rank": "Immortal King",
+                "nrank": "Immortal Emperor"
+            }
+        },
+        "Immortal Emperor": {
+            "xp": "152000000",
+            "item": {
+                "name": "rested",
+                "rested": 3,
+                "rank": "Immortal Emperor",
+                "nrank": "Half God"
+            }
+        },
+        "Half God": {
+            "xp": "304000000",
+            "item": {
+                "name": "whole",
+                "whole": 3,
+                "rank": "Half God",
+                "nrank": "God"
+            }
+        },
+        "God": {
+            "xp": "608000000",
+            "item": {
+                "name": "whole",
+                "whole": 6,
+                "rank": "God",
+                "nrank": "None"
+            }
+        }
+    }
+}

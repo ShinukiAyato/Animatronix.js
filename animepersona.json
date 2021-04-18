@@ -1,0 +1,24 @@
+{
+    "Personality" : {
+        "q1" : "1. You walk into a school lunchroom on your first day of school. Where do you sit?",
+        "c1" : ["a. Table beside the window by himself", "b. At a table full of friendly faces", "c. In a corner where I won't be visible"],
+        "q2" : "2. What is your secret weapon?",
+        "c2" : ["a. My Mind", "b. My Powers of Manipulation", "c. My Natural Charm"],
+        "q3" : "3. Pick a flower",
+        "c3" : ["a. Rose", "b. Daffodil", "c. Orchid"],
+        "q4" : "4. Which would you rather have as a pet?",
+        "c4" : ["a. Bunny", "b. Raven", "c. Cat"],
+        "q5" : "5. Do you do what you're told?",
+        "c5" : ["a. Yes", "b. Depends on who's telling me", "c. No one tells me what to do"],
+        "q6" : "6. What kind of days do you prefer?",
+        "c6" : ["a. Bright and Sunny", "b. Stromy", "c. Snowy"],
+        "q7" : "7. Would you ever fall in love with an evil vampire?",
+        "c7" : ["a. I hope not", "b. I would be attracted but I would resist", "c. Probably because I can't resist charm but I would try to change them"],
+        "q8" : "8. You go to a masquerade ball what is your mask like?",
+        "c8" : ["a. Mad", "b. Sad", "c. Happy"],
+        "q9" : "9. Do you like hugs?",
+        "c9" : ["a. Rarely", "b. No", "c. Yes"],
+        "q10" : "10. What satisfies you?",
+        "c10" : ["a. Making other people happy", "b. Learning", "c. Overcoming a fear"]
+    }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Take-Care",
+  "version": "1.0.0",
+  "main": "src/index",
+  "repository": "https://github.com/ShinukiAyato/Take-Care.git",
+  "author": "ShinukiAyato",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.2.0",
+    "eslint-config-tesseract": "^0.0.2"
+  },
+  "dependencies": {
+    "akaneko": "^5.0.1",
+    "amethyste-api": "^1.1.4",
+    "aztro-js": "^0.1.5",
+    "canvas": "^2.6.1",
+    "custom-translate": "^2.2.8",
+    "dblapi.js": "^2.4.1",
+    "discord.js": "^12.2.0",
+    "glob": "^7.1.6",
+    "kitsu": "^10.0.0-alpha.1",
+    "kitsu.js": "^2.0.0",
+    "mersenne-twister": "^1.1.0",
+    "moment": "^2.26.0",
+    "mongoose": "^5.10.5",
+    "ms": "^2.1.2",
+    "nekos.life": "^2.0.7",
+    "node-kitsu": "^1.1.1",
+    "path": "^0.12.7",
+    "random-puppy": "^1.1.0",
+    "sakuranpm": "^1.1.0",
+    "shuffle-words": "^0.1.2",
+    "util": "^0.12.3"
+  }
+}

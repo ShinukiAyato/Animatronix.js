@@ -1,0 +1,204 @@
+{
+    "p1": {
+        "sentence": "A long time ago ",
+        "x": [
+            "During the Invasion of the Immortals (100 years ago)",
+            "While the Blood Moon Started 21st century",
+            "Before the Pandemic Has Spread (200 years ago)",
+            "After the Cultivators appeared",
+            "While the War of Humans (20 years ago)"
+        ]
+    },
+    "p2": {
+        "sentence": " there was a ",
+        "x": [
+            "Bloodthristy",
+            "Vengeful",
+            "Psychothic",
+            "Greedy",
+            "Kind",
+            "Jealous",
+            "Cruel",
+            "Scared",
+            "Evil",
+            "Wise",
+            "Harsh",
+            "Impatient",
+            "Cocky",
+            "Grumpy",
+            "Quick-Tempered",
+            "Selfish",
+            "Vain",
+            "Boastful",
+            "Arrogant",
+            "Aloof"
+        ]
+    },
+    "p3": {
+        "sentence": " ",
+        "x": [
+            "Elf",
+            "Dwarf",
+            "Druid",
+            "Wizard",
+            "Beggar",
+            "Lord",
+            "Princess",
+            "Queen",
+            "King",
+            "Smith",
+            "Apprentice",
+            "Warrior",
+            "Sorcerer",
+            "Monk",
+            "Prince",
+            "Captain",
+            "Sister",
+            "Brother",
+            "Hunter",
+            "Assassin",
+            "Soldier",
+            "Knight",
+            "Mentor",
+            "Farmer"
+        ]
+    },
+    "p4": {
+        "sentence": " who sought ",
+        "x": [
+            "a weapon",
+            "a love",
+            "a friend in need",
+            "an enemy",
+            "a treasure",
+            "a map",
+            "a family member",
+            "an artifact",
+            "a monster",
+            "immortality"
+        ]
+    },
+    "p5": {
+        "sentence": " because of ",
+        "x": [
+            "a promise",
+            "a prophecy",
+            "a bet",
+            "the duty",
+            "an honor",
+            "insanity",
+            "the dreams",
+            "greed",
+            "revenge"
+        ]
+    },
+    "p6": {
+        "sentence": " and traveled to ",
+        "x": [
+            "a ruin",
+            "a farm",
+            "a grave",
+            "a tower",
+            "a castle",
+            "a village",
+            "a hill",
+            "a cave",
+            "a magical tree",
+            "an abandoned village",
+            "a dungeon"
+        ]
+    },
+    "p7": {
+        "sentence": " located ",
+        "x": [
+            "close by.",
+            "north.",
+            "north east.",
+            "south.",
+            "south west.",
+            "north west.",
+            "north east.",
+            "east.",
+            "west.",
+            "far away.",
+            "on a forbidden land."
+        ]
+    },
+    "p8": {
+        "sentence": " As the Legend Goes, it is said that he or she ",
+        "x": [
+            "was betrayed",
+            "was murdered",
+            "was never seen again",
+            "starved to death",
+            "took his/her own life",
+            "died in battle",
+            "was enchanted",
+            "was possessed",
+            "was cursed",
+            "still can't be found"
+        ]
+    },
+    "p9": {
+        "sentence": " and that location there is ",
+        "x": [
+            "full of golds",
+            "a powerful artifact",
+            "a suit of armor",
+            "a legendary weapon",
+            "an invaluable book",
+            "a large treasure",
+            "a magical plant that can give you immortality",
+            "the remains of an important person",
+            "a plant that can heal any sickness",
+            "a artifact the can bring back the dead"
+        ]
+    },
+    "p10": {
+        "sentence": " but also ",
+        "x": [
+            "Merciless",
+            "Hostile",
+            "Cruel",
+            "Domineering",
+            "Sneaky",
+            "Stubborn",
+            "Unpredictable",
+            "Quick-tempered",
+            "Horrible",
+            "Hungry",
+            "Maniac",
+            "Murderous",
+            "Psychothic",
+            "Insane",
+            "Bloodthirsty",
+            "Aggressive"
+        ]
+    },
+    "p11": {
+        "sentence": " ",
+        "x": [
+            "Wolfkin.",
+            "Orcs.",
+            "Giants.",
+            "Ghost.",
+            "Undeads.",
+            "Goblins.",
+            "Ghouls.",
+            "Skeletons.",
+            "Vampires.",
+            "Wyverns.",
+            "Minotaurs.",
+            "Hydra.",
+            "Demons.",
+            "Possessed Armor.",
+            "Witches.",
+            "Dragons.",
+            "Fallen Angel.",
+            "Parasites.",
+            "Cursed Knights.",
+            "Chimera.",
+            "Basilisks."
+        ]
+    }
+}
